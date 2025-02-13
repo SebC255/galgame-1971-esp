@@ -20,18 +20,17 @@ Ambos juegos fueron creados con la misma idea en mente: Traer el popular juego "
 Entre los dos, Galaxy Game es el más fiel a su inspiración (aunque al costo de que su producción fuese demasiado cara),
 pero también se le agregó nuevas opciones que se pueden configurar antes de cada partida.
 
-Una segunda versión del juego fue construida en junio de 1972, supuestamente con nuevas funciones y está
-actualmente preservada en el Museo de la Historia de la Computación; pero por lo que entiendo,
-la única versión disponible en internet es la original o quizás no. Sea como sea, este parche fue hecho
-bajo la idea de que en ese entonces se encontraría solo una versión del programa.
+Una segunda versión del juego fue construida en junio de 1972 con nuevas opciones, y está actualmente
+preservada en el Museo de la Historia de la Computación; pero al momento de crear este parche,
+la única versión disponible en internet está basada en la original (o al menos una recreación),
+y por ende es la que esta traducción toma en cuenta.
 
 SOBRE EL PARCHE:
 
 Este parche traduce todo el texto del juego menos el título.
 Uno de los caracteres sin usar de la versión original (un espacio resaltado) es reemplazado por la letra "Á"
 Hacer cambios más drásticos en el código (tales como textos más largos) parece fácil en teoría,
-pero no se han podido aplicar debido a falta de experiencia manipulando el archivo.
-Nota: en caso que alguien posea la otra versión del programa original, no hay garantía que este parche sea compatible.
+pero no se han podido aplicar debido a falta de experiencia modificando el archivo.
 
 CÓMO USAR EL PARCHE:
 
